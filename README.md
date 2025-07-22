@@ -8,6 +8,6 @@
 ### Instalación
 
 ```bash
-git clone <repo>
+git https://github.com/ocastelblack/mini_rag_api
 cd mini_rag_api
 pip install -r requirements.txt
